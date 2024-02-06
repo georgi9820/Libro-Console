@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AxQZcC5gyzlDIiGKvXh0BT1MMohSH/ipQlajII7cCovoEOTLCx9+8zm/Utws/OwhH2/adf09nHZ9mp8a69LsJw==",
+  "dgSpecHash": "OnHoCsuRZ1bRMQN0OjY5Q7xfOZuSS763PfpuVC/B9aS1v8hGvQwuqDU593EWn9GGYbSh2ZFhxkgfEVuXlyrDlg==",
   "success": true,
-  "projectFilePath": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
+  "projectFilePath": "D:\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Georgi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Georgi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibroConsoleAPI
-build_property.ProjectDir = D:\c#-задачи\SoftUni-Courses\LibraryApp\LibroConsoleAPI\
+build_property.ProjectDir = D:\LibraryApp\LibroConsoleAPI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

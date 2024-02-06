@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ad7MfPLX0/aTMa9EwS4jlZnmgIFogKYNlZsdG+leeouvg67/6roxqcQUheKBfHhiDkr3XCqZZj4q6sWRUNKfTQ==",
+  "dgSpecHash": "Al8oTWDc/1vuiyuc4RFKjFyPsPeotzjX5+CxIqtDTiT207my3gBttH6V51MEXOA3XmCTiPqIQqDo7DLEyCDcMQ==",
   "success": true,
-  "projectFilePath": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj",
+  "projectFilePath": "D:\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Georgi\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Georgi\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

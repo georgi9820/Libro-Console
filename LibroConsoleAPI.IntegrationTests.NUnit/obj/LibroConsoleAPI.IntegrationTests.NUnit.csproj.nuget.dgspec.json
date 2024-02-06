@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj": {}
+    "D:\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj": {}
   },
   "projects": {
-    "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj": {
+    "D:\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj",
+        "projectUniqueName": "D:\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj",
         "projectName": "LibroConsoleAPI.IntegrationTests.NUnit",
-        "projectPath": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj",
+        "projectPath": "D:\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\LibroConsoleAPI.IntegrationTests.NUnit.csproj",
         "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-        "outputPath": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\obj\\",
+        "outputPath": "D:\\LibraryApp\\LibroConsoleAPI.IntegrationTests.NUnit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj": {
-                "projectPath": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj"
+              "D:\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj": {
+                "projectPath": "D:\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj": {
+    "D:\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
+        "projectUniqueName": "D:\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
         "projectName": "LibroConsoleAPI",
-        "projectPath": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
+        "projectPath": "D:\\LibraryApp\\LibroConsoleAPI\\LibroConsoleAPI.csproj",
         "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-        "outputPath": "D:\\c#-задачи\\SoftUni-Courses\\LibraryApp\\LibroConsoleAPI\\obj\\",
+        "outputPath": "D:\\LibraryApp\\LibroConsoleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

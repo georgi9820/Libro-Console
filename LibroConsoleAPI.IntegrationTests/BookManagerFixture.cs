@@ -10,6 +10,7 @@ public class BookManagerFixture : IDisposable
 
     public BookManagerFixture()
     {
+        string dbName = $"TestDb_{Guid.NewGuid()}";
         DbContext = new TestLibroDbContext();
         var bookRepository = new BookRepository(DbContext);
         BookManager = new BookManager(bookRepository);
